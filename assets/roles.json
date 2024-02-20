@@ -1,0 +1,11 @@
+{
+    "roles": [
+        { "name": "administrateur" },
+        { "name": "éditeur" },
+        { "name": "comptable" },
+        { "name": "directeur général" },
+        { "name": "directeur exécutif" },
+        { "name": "Gestionnaire" }
+        
+    ]
+}
