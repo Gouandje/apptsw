@@ -260,6 +260,7 @@
     "Salaire": "Salary",
     "Cotisation":"Contribution",
     "CHIFFREDAFFAIREZone": "Turnover of the zone",
+    "CHIFFREDAFFAIRESection": "Turnover of the section",
     "AjouterNouvelleAffectationChefSession": "Assign a leader to a section",
     "DetailManager":"Manager details",
     "choisirsupervisieurZone": "Choose the zone supervisor",
