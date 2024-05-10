@@ -312,6 +312,9 @@
     "modulemanagawakehouse":"warehouse management module",     
     "modulemanagadmins":  "software administrator management module",
     "modulemanagsecretaire":  "module of secretaire",
-    "modulemanagkine": "module of kine"
+    "modulemanagkine": "module of kine",
+    "Ajouterpatient": "Add patient",
+    "Gestionpatients": "Patient management"
+
     
 }

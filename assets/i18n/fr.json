@@ -16,7 +16,7 @@
     "Annee":"Année",
     "ListPatien":"Liste des patients",
     "PatientKine":"Liste des patients du kiné",
-    "MesBesoins":"Mes d'argent pour une charge",
+    "MesBesoins":"Mes besoins d'argent pour une charge",
     "PatiensDoctor":"Liste des patients des docteurs",
     "RolePermission": "Droit d'accès",
     "ModifAdmin": "Modification des informations de admin",
@@ -309,6 +309,8 @@
     "modulemanagawakehouse": "module de gestion d'entrepôt",
     "modulemanagadmins": "module des gestion des administrateurs du logiciel",
     "modulemanagsecretaire": "module de secretaire",
-    "modulemanagkine": "module de kiné"
+    "modulemanagkine": "module de kiné",
+    "Ajouterpatient": "Ajouter un patient",
+    "Gestionpatients": "Gestion des patients"
 
 }
