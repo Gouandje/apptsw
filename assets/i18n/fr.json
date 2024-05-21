@@ -311,6 +311,8 @@
     "modulemanagsecretaire": "module de secretaire",
     "modulemanagkine": "module de kiné",
     "Ajouterpatient": "Ajouter un patient",
-    "Gestionpatients": "Gestion des patients"
+    "Gestionpatients": "Gestion des patients",
+    "SelectDoctor": "Selectionner un docteur",
+    "Planning": "Planning"
 
 }

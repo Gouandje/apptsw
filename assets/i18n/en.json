@@ -314,7 +314,11 @@
     "modulemanagsecretaire":  "module of secretaire",
     "modulemanagkine": "module of kine",
     "Ajouterpatient": "Add patient",
-    "Gestionpatients": "Patient management"
+    "Gestionpatients": "Patient management",
+    "SelectDoctor": "Select a doctor",
+    "Planning": "Schedule"
+
+
 
     
 }
