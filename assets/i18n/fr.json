@@ -313,6 +313,8 @@
     "Ajouterpatient": "Ajouter un patient",
     "Gestionpatients": "Gestion des patients",
     "SelectDoctor": "Selectionner un docteur",
-    "Planning": "Planning"
+    "Planning": "Planning",
+    "PaiementSalairekine": "Salaire du kiné",
+    "PaiementSalairedoctor": "Salaire des docteurs"
 
 }

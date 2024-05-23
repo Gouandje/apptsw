@@ -316,7 +316,10 @@
     "Ajouterpatient": "Add patient",
     "Gestionpatients": "Patient management",
     "SelectDoctor": "Select a doctor",
-    "Planning": "Schedule"
+    "Planning": "Schedule",
+    "PaiementSalairekine": "Physiotherapist salary",
+    "PaiementSalairedoctor": "Salary of doctors"
+
 
 
 
