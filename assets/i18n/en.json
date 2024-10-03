@@ -148,6 +148,7 @@
     "dureeConge": "Duration of leave",
     "SelectionConge": "Select type of leave",
     "SelectionnerEmployer": "Select employee",
+    "Modifemployer": "Editing employee",
     "debutConge": "Start date",
     "DetailConstion":"Consignment details",
     "retoutDeStock":"Back products to national  warehouse",
@@ -318,7 +319,13 @@
     "SelectDoctor": "Select a doctor",
     "Planning": "Schedule",
     "PaiementSalairekine": "Physiotherapist salary",
-    "PaiementSalairedoctor": "Salary of doctors"
+    "PaiementSalairedoctor": "Salary of doctors",
+    "RendementBureau": "Office performance",
+    "RendementNational": "National performance",
+    "RendementZone": "Zones performance",
+    "Locallisationbureau": "Offices Location",
+    "InspecteurControl": "Management of control inspectors",
+    "managerA10":"Management of HCEF-CI A10 (assistant managers)"
 
 
 

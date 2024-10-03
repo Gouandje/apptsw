@@ -133,6 +133,7 @@
     "ListPays": "Liste des pays",
     "StockPays": "Stock des produits du pays",
     "GestionEmployers": "Gestion des employers",
+    "Modifemployer": "Modification de l'employer",
     "TypeContrat":"Type de Contrat",
     "DebutContrat":"Début du Contrat",
     "FinContrat":"Fin du Contrat",
@@ -315,6 +316,11 @@
     "SelectDoctor": "Selectionner un docteur",
     "Planning": "Planning",
     "PaiementSalairekine": "Salaire du kiné",
-    "PaiementSalairedoctor": "Salaire des docteurs"
-
+    "PaiementSalairedoctor": "Salaire des docteurs",
+    "RendementBureau": "Rendement des bureaux",
+    "RendementNational": "Rendement national",
+    "RendementZone": "Rendement des zones",
+    "Locallisationbureau": "Localisation des bureaux",
+    "InspecteurControl": "Gestion des inspecteurs de contrôle",
+    "managerA10" :"Gestion des HCEF-CI A10 (Assistant manager)"
 }
