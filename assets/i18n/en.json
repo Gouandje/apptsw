@@ -325,9 +325,12 @@
     "RendementZone": "Zones performance",
     "Locallisationbureau": "Offices Location",
     "InspecteurControl": "Management of control inspectors",
-    "managerA10":"Management of HCEF-CI A10 (assistant managers)"
-
-
+    "managerA10":"Management of HCEF-CI A10 (assistant managers)",
+    "AjouterNouveauCaKine": "Add Ca Monthly Physiotherapist",
+    "caMois": "Turnover",
+    "caMoisobligatoire": "Turnover required",
+    "rendementkine": "Physiotherapist Performance",
+    "statutmois": "Month status"
 
 
     

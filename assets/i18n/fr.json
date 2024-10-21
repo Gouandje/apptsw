@@ -322,5 +322,11 @@
     "RendementZone": "Rendement des zones",
     "Locallisationbureau": "Localisation des bureaux",
     "InspecteurControl": "Gestion des inspecteurs de contrôle",
-    "managerA10" :"Gestion des HCEF-CI A10 (Assistant manager)"
+    "managerA10" :"Gestion des HCEF-CI A10 (Assistant manager)",
+    "AjouterNouveauCaKine": "Ajouter Ca Mensuel du kinésithérapeutre",
+    "caMois": "Chiffre d'affaire",
+    "caMoisobligatoire": "Chiffre d'affaire obligatoire",
+    "rendementkine": "Rendement du kiné",
+    "statutmois": "Statut du mois"
+
 }
